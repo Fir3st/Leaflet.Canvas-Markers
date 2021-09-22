@@ -1,5 +1,5 @@
 {
-  "name": "@ftsinc/leaflet-canvas-marker",
+  "name": "leaflet-canvas-marker",
   "version": "0.2.40",
   "description": "Leaflet plugin to display markers on canvas instead of DOM",
   "main": "dist/leaflet.canvas-markers.js",
@@ -39,7 +39,7 @@
     "rbush": "^2.0.2"
   },
   "bugs": {
-    "url": "https://github.com/ftsinc/Leaflet.Canvas-Markers/issues"
+    "url": "https://github.com/Fir3st/Leaflet.Canvas-Markers/issues"
   },
-  "homepage": "https://github.com/ftsinc/Leaflet.Canvas-Markers#readme"
+  "homepage": "https://github.com/Fir3st/Leaflet.Canvas-Markers#readme"
 }
